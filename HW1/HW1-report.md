@@ -9,12 +9,15 @@ Due: January 17, 2024
 https://github.com/demetriuswright24/DemetriusWright625
    
 *In which direction does the 'push' command work (send local changes to remote OR send remote changes to local)?*
+
 The direction that the 'push' command works is sending local changes of a project residing on your machine, to the remote repository. So, you push your local work to the remote
 
 *You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?*
+
 You could revert to the last commit. First, you could run git log to see your previous commit. After doing that, you can run "git checkout theCheckoutId to update your current project that you're working on, to that of the commit of your choice
 
 Additionally, you could do "git reset --soft HEAD^" or "git reset --hard HEAD^", dependent on whether you'd like to keep the progress you currently have on your work
+
 ## Markdown
 
 *Create a bulleted list with at least 3 items*
@@ -23,6 +26,8 @@ Additionally, you could do "git reset --soft HEAD^" or "git reset --hard HEAD^",
 - bird
 
 *Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph does not have to make sense.*
+
+
 *Hello, in order to use italics, you must use the asterisk.* **Regarding the bold, you must use two asterisks.** ***On the topic of bold italics, use three asterisks.*** <code> In the form of code, use the word code with < and >. <code> Lastly, here's a [link](https://optical.toys/waterfall-effect/)
 
 *Create a level 3 heading*
