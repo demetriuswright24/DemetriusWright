@@ -34,10 +34,11 @@ Additionally, you could do "git reset --soft HEAD^" or "git reset --hard HEAD^",
 ## Tableau
 
 *Insert the image of your horizontal bar chart here. Reminder, this should show top 10 state names that has highest population in USA.*
-
+![tableauStates](HW1Tableau.png)
 ## Google Colab
 
 *What is the URL of your Google Colab notebook?*
+[Colab Notebook](https://colab.research.google.com/drive/1XYWMfDLmtLRCvDwIsOdlxQ7OPBbCN05l?usp=sharing)
 
 ## Python/Seaborn
 
@@ -67,5 +68,10 @@ Additionally, you could do "git reset --soft HEAD^" or "git reset --hard HEAD^",
 
 *Every report must list the references (including the URL) that you consulted while completing the assignment. Replace the items below with the references you consulted*
 
+* Git Tutorial, <https://youtu.be/USjZcfj8yxE?si=mtmXR509ESboRwla>
+* Github Tutorial, <https://youtu.be/nhNq2kIvi9s?si=dqvTqNq7ZQEGUnB0>
+* Picture of House, <https://www.istockphoto.com/>
+* ChatGPT, ![gptQuestion](ChatGPTQuestion.png)
+* All of the Mark down references, <https://www.markdownguide.org/basic-syntax/>
 * Plot in Vega-Lite, <https://www.example.com](https://observablehq.com/@observablehq/plot-vega-lite>
 * Seaborn object bars, <https://seaborn.pydata.org/generated/seaborn.objects.Bars.html)https://seaborn.pydata.org/generated/seaborn.objects.Bars.html>
