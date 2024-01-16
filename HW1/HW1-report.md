@@ -49,26 +49,46 @@ Additionally, you could do "git reset --soft HEAD^" or "git reset --hard HEAD^",
 
 *Insert the first penguin chart here*
 
+![DotPenguin](DotHW1.png)
+
 *Describe what the figure is showing.*
+
+In this figure, a depiction of depth of penguin bill depth and penguin bill length is illustrated by way of a scatter plot.
 
 *Insert the second penguin chart here*
 
+![BarPenguin](BarHW1.png)
+
 *Describe what the figure is showing.*
 
+In the second figure, a depiction of the body mass of several penguin; Adelie, Gentoo, and Chinstrap, are illustrated by way of a bar plot. In the second figure, it also depicts the mass of each sex, seperated by the afforemention penguin types.
+
 *What happened when you removed the outer parentheses from the code? Why?*
+
+When I removed the outer parenthese from the code, it resulted in an error. This is because the parenteses are used to make an instance of the seaborn object, specifically, it is used in the form of breaking up what would be a very long line of code
+
 
 ## Observable and Vega-Lite
 
 *What happens when you replace `markCircle()` with `markSquare()`?*
 
+When you replace `markCircle()` with `markSquare()`, it results in the points on the scatter plot changing from circles to squares
+
 *What happens when you replace `markCircle()` with `markPoint()`?*
+
+When you replace `markCircle()` with `markSquare()`, it results in the points on the scatter plot changing from filled circles to empty circles
 
 *What change do you need to make to swap the x and y axes on the scatterplot?*
 
+In order to swap the x and y axes on the scatter plot, write `vl.x().fieldQ("Miles_pper_Gallon")` and `vl.y().fieldQ("Horsepower")`
+
 *Insert the bar chart image here*
+
+![ObservableBarChart](ObservableBar.png)
 
 *Why do you think this chart is the result of this code change?*
 
+I believe that this is the resulting chart because it removes the y variable(s) required to illustrate y data
 ## References
 
 *Every report must list the references (including the URL) that you consulted while completing the assignment. Replace the items below with the references you consulted*
