@@ -3,9 +3,6 @@
 Demetrius Wright 
 Due: January 31, 2024
 
-## Git, GitHub
-
-
 ## Part 1
 
 - *Remove rows/columns: Remove blank rows, rows that contain misleading values (-1 for example) exists in more than one column (of the same row). Remove the columns index and Competitors.*
