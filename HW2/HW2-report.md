@@ -27,7 +27,7 @@ This was simply done manually by opening up the Size column as a text facet, the
 In order to complete this step, the method of adding a column based on another column was used heavily in order to create the new column. Additionally, to define the state's city, I had used GREL to perform a regex operation to exclude/include the necessary values for defining city. Again, as OpenRefine fails to save any history of a project after exporting it, I no longer have the exact regex command used. Regardless of this, a command that performs a similar operation is as follows: "grel:value.split(\", \")[1]"
 
 This picture shows the use of the "Add column based on this column" functionality.
-![p11Q4](p11Q4.png)
+![p1Q4](p1Q4.png)
 
 - Create a new column called "Reliability" and fill its values based on the criteria given below:
 
