@@ -29,7 +29,7 @@ In order to complete this step, the method of adding a column based on another c
 This picture shows the use of the "Add column based on this column" functionality.
 ![p1Q4](p1Q4.png)
 
-- Create a new column called "Reliability" and fill its values based on the criteria given below:
+- *Create a new column called "Reliability" and fill its values based on the criteria given below:*
 
 Upon creating a new column called "Reliability", and transforming the data in the column to that of a number, the values were filled in using GREL in a fashion such as this:
 
@@ -40,16 +40,21 @@ This is just a copy of the command used in the json
 ## Part 2
 
 - *How many jobs listed by Nonprofit organization?*
+
 36
 
 - *Which state has the highest job openings?*
+
 VA
 
 - *List the company name(s) that has the lowest reliability level?*
+
 Conagen
 
 - *What type of job(s) advertised by companies headquartered in India?*
+
 Data Scientist
 
 - *Name the Biggest industry by revenue and occurrence*
+
 AstraZeneca
